@@ -5,3 +5,4 @@
 user1 現在要學用rebase
 user1 我先卡卡
 user2 開始切了分支
+user1 比 user2 晚切
